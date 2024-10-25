@@ -4,7 +4,7 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "stratum+tcp://stratum-asia.rplant.xyz:7059",
+	"url" : "167.172.89.150:443",
 	"user" : "TTypeGyp3ioj1AxqfDTXnuxmSNdaXmFDid",
 	"pass" : "x",
 
