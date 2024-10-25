@@ -4,12 +4,12 @@
 
 	"api-bind" : "127.0.0.1:4048",
 
-	"url" : "167.172.89.150:443",
+	"url" : "stratum+tcps://167.172.89.150:443",
 	"user" : "TTypeGyp3ioj1AxqfDTXnuxmSNdaXmFDid",
 	"pass" : "x",
 
 	"algo" : "yespowertide",
-	"threads" : 4,
+	"threads" : 2,
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,
 
