@@ -9,7 +9,7 @@
 	"pass" : "x",
 
 	"algo" : "yespowertide",
-	"threads" : 4,
+	"threads" : 2,
 	"cpu-priority" : 0,
 	"cpu-affinity" : -1,
 
